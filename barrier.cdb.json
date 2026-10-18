@@ -1,0 +1,13 @@
+{
+    "type": "MOD",
+    "title": "Barrier Block for Luanti",
+    "name": "barrier",
+    "short_description": "A simple mod that adds a barrier block, a block with no sounds and a solid black texture, with a tool to remove it. The barrier blocks and tool cannot be placed, used, or mined without the barrier_allow privilege. To obtain the blocks/tool, you need to use the /give command. Example: /give barrier:barrier.",
+    "dev_state": "AS_IS",
+    "ai_disclosure": "NONE",
+    "tags": "developer_tools",
+    "license": "MIT",
+    "media_license": "MIT",
+    "repo": "https://github.com/crazycatlover98544/minetest-barrier",
+    "issue_tracker": "https://github.com/crazycatlover98544/minetest-barrier/issues"
+}
